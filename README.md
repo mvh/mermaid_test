@@ -22,3 +22,5 @@ stateDiagram
     Moving --> Crash
     Crash --> [*]
 ```
+
+# A simple change
